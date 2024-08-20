@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.card:hover .card1 {
+    color: #59FFA0;
+  }
+  .card:hover .month {
+    color: #ffffff;
+  }
+  .card:hover .button {
+    display: block;
+  }
+  
+  
