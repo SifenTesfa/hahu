@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hahu/static/css/main.ae2d2fcc.css",
+    "main.js": "/hahu/static/js/main.fe59c344.js",
+    "static/media/img2.png": "/hahu/static/media/img2.e80e481b8811fbc5039a.png",
+    "static/media/img3.png": "/hahu/static/media/img3.4f35590421e1636790ae.png",
+    "static/media/img1.png": "/hahu/static/media/img1.88ce7b1e6c91ad277c74.png",
+    "static/media/img4.png": "/hahu/static/media/img4.01b11d2c836c8e6326e1.png",
+    "static/media/home.jpg": "/hahu/static/media/home.96859c15534ff9a9cf3c.jpg",
+    "index.html": "/hahu/index.html",
+    "main.ae2d2fcc.css.map": "/hahu/static/css/main.ae2d2fcc.css.map",
+    "main.fe59c344.js.map": "/hahu/static/js/main.fe59c344.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2d2fcc.css",
+    "static/js/main.fe59c344.js"
+  ]
+}
